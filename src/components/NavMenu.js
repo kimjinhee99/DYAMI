@@ -225,7 +225,7 @@ useEffect(() => {
     </Nav>
 
     {/* 화면에 보이는 영역 */}
-    <Routes>
+    {/* <Routes>
       <Route path="/about" element={ <About />} />
       <Route path="/service" element={<Service />} />
       <Route path="/portfolio" element={<Portfolio />} />
@@ -233,7 +233,7 @@ useEffect(() => {
       <Route path="/contact" element={<Contact />} />
       <Route path="/element" element={<Element />} />
       <Route path="/shop" element={<Shop />} />
-    </Routes>
+    </Routes> */}
     </BrowserRouter>
     </>
   );
