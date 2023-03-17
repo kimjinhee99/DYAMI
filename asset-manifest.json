@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DYAMI/static/css/main.421cf5ea.css",
-    "main.js": "/DYAMI/static/js/main.1aa1d090.js",
+    "main.js": "/DYAMI/static/js/main.28279faa.js",
     "static/media/IropkeBatangM.otf": "/DYAMI/static/media/IropkeBatangM.7f75e2717e97c7491206.otf",
     "static/media/banner01.jpg": "/DYAMI/static/media/banner01.1f74a32c3ab109635f0d.jpg",
     "static/media/04-2.jpg": "/DYAMI/static/media/04-2.4853aa26d5c447f7d7ed.jpg",
@@ -11,10 +11,10 @@
     "static/media/remixicon.woff2": "/DYAMI/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/DYAMI/index.html",
     "main.421cf5ea.css.map": "/DYAMI/static/css/main.421cf5ea.css.map",
-    "main.1aa1d090.js.map": "/DYAMI/static/js/main.1aa1d090.js.map"
+    "main.28279faa.js.map": "/DYAMI/static/js/main.28279faa.js.map"
   },
   "entrypoints": [
     "static/css/main.421cf5ea.css",
-    "static/js/main.1aa1d090.js"
+    "static/js/main.28279faa.js"
   ]
 }
