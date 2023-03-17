@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactweb/static/css/main.c9245e0e.css",
-    "main.js": "/reactweb/static/js/main.0b55e46a.js",
-    "static/media/IropkeBatangM.otf": "/reactweb/static/media/IropkeBatangM.7f75e2717e97c7491206.otf",
-    "static/media/banner01.jpg": "/reactweb/static/media/banner01.1f74a32c3ab109635f0d.jpg",
-    "static/media/04-2.jpg": "/reactweb/static/media/04-2.4853aa26d5c447f7d7ed.jpg",
-    "static/media/04-3.jpg": "/reactweb/static/media/04-3.61e3b7c4f630df22335f.jpg",
-    "static/media/banner02.jpg": "/reactweb/static/media/banner02.77e1eaca7ecc74e21936.jpg",
-    "static/media/04-1.jpg": "/reactweb/static/media/04-1.0eda07bc922c8be94b50.jpg",
-    "static/media/remixicon.woff2": "/reactweb/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "index.html": "/reactweb/index.html",
-    "main.c9245e0e.css.map": "/reactweb/static/css/main.c9245e0e.css.map",
-    "main.0b55e46a.js.map": "/reactweb/static/js/main.0b55e46a.js.map"
+    "main.css": "/DYAMI/static/css/main.421cf5ea.css",
+    "main.js": "/DYAMI/static/js/main.1aa1d090.js",
+    "static/media/IropkeBatangM.otf": "/DYAMI/static/media/IropkeBatangM.7f75e2717e97c7491206.otf",
+    "static/media/banner01.jpg": "/DYAMI/static/media/banner01.1f74a32c3ab109635f0d.jpg",
+    "static/media/04-2.jpg": "/DYAMI/static/media/04-2.4853aa26d5c447f7d7ed.jpg",
+    "static/media/04-3.jpg": "/DYAMI/static/media/04-3.61e3b7c4f630df22335f.jpg",
+    "static/media/banner02.jpg": "/DYAMI/static/media/banner02.77e1eaca7ecc74e21936.jpg",
+    "static/media/04-1.jpg": "/DYAMI/static/media/04-1.0eda07bc922c8be94b50.jpg",
+    "static/media/remixicon.woff2": "/DYAMI/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "index.html": "/DYAMI/index.html",
+    "main.421cf5ea.css.map": "/DYAMI/static/css/main.421cf5ea.css.map",
+    "main.1aa1d090.js.map": "/DYAMI/static/js/main.1aa1d090.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9245e0e.css",
-    "static/js/main.0b55e46a.js"
+    "static/css/main.421cf5ea.css",
+    "static/js/main.1aa1d090.js"
   ]
 }
